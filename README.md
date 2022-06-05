@@ -4,6 +4,9 @@ A microkernel Operating system written- and using only C code. The aim is to hav
 # OS
 Operating system using only open source software. All components written in C.
 
+# GUI
+A Wayland window manager will be sourced and a fully functional Chromium web browser is the ""end"" goal.
+
 # Target platform
 SiFive HiFive Unleashed
-  Using QEMU.
+  -Using QEMU.
